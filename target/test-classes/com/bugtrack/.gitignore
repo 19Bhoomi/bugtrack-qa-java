@@ -1,0 +1,15 @@
+
+# Maven generated files
+target/
+
+# VS Code local settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Java compiled files
+*.class
+
+# Log files
+*.log
